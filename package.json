@@ -1,0 +1,20 @@
+{
+  "name": "cse-341-proyect1",
+  "version": "1.0.0",
+  "description": "my first proyect",
+  "homepage": "https://github.com/javiera-MLJ/CSE-341-proyect1#readme",
+  "bugs": {
+    "url": "https://github.com/javiera-MLJ/CSE-341-proyect1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javiera-MLJ/CSE-341-proyect1.git"
+  },
+  "license": "ISC",
+  "author": "javiera Lorca",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
