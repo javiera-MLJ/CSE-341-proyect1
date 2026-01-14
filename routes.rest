@@ -1,0 +1,7 @@
+GET http://localhost:3000/contacts
+
+GET http://localhost:3000/contacts/6966a69e2fd3a9854403b7d5
+
+GET https://cse-341-proyect1.onrender.com
+
+GET https://cse-341-proyect1.onrender.com/contacts/6966a69e2fd3a9854403b7d5
